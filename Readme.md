@@ -1,1 +1,2 @@
- Estudando essa porcaria 
+ Estudando git
+ Isso é uma alteração
